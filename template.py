@@ -20,7 +20,6 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trails.ipynb",
-    "test.py",
 ]
 for filepath in list_of_files:
     filepath = Path(filepath)
