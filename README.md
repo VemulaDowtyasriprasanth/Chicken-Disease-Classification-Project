@@ -14,16 +14,6 @@ The **Chicken Disease Classification Project** is a machine learning application
 ### Intended Use
 This project is designed for agricultural researchers and poultry farmers who need automated disease detection in chickens, enabling timely treatment and management.
 
-## Architecture
-
-The project’s architecture is structured into distinct layers and components for modularity and clarity. The high-level architecture and file structure are visualized in the images below:
-
-### High-Level Architecture Workflow
-![Architecture Workflow](./path/to/first_uploaded_image.png)
-
-### Detailed Module Breakdown
-![Detailed Module Breakdown](./path/to/second_uploaded_image.png)
-
 ### Key Components
 1. **Data Ingestion**: Manages the retrieval of image data, with DVC ensuring version control and reproducibility.
 2. **Data Processing**: Includes pre-processing steps such as resizing, normalization, and augmentation to prepare images for training.
